@@ -1,3 +1,5 @@
+#a função de custo de uma RNA profunda é baseada no Gradiente Descendente, que por sua vez se utiliza da derivada da sigmoide....
+
 import numpy as np
 
 def sigmoiide_derivada(x):
