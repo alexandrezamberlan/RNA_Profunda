@@ -8,8 +8,8 @@ dessa forma, python fornece o conceito de vetorização via numpy e o método do
 import numpy as np
 import time
 
-a = np.array([1,2,3,4])
-print(a)
+#a = np.array([1,2,3,4])
+#print(a)
 
 a = np.random.rand(10000000)
 b = np.random.rand(10000000)
