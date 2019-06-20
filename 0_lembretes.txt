@@ -1,0 +1,6 @@
+1) np.exp(x) works for any np.array x and applies the exponential function to every coordinate
+2) the sigmoid function and its gradient
+3) image2vector is commonly used in deep learning
+4) np.reshape is widely used
+5) numpy has efficient built-in functions
+6) broadcasting is extremely useful
